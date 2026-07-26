@@ -60,7 +60,6 @@ export default function Footer() {
       <div className="border-t border-cream/10 py-6">
         <Container className="flex flex-col items-center justify-between gap-2 text-xs text-cream/50 md:flex-row">
           <p>&copy; {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
-          <p>Redesigned as part of the Dettroin Full Stack Internship Program.</p>
         </Container>
       </div>
     </footer>
