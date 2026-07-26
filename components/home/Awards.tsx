@@ -10,7 +10,7 @@ export default function Awards() {
         <SectionHeading
           eyebrow="Recognition"
           title="Our Awards"
-          description="A track record of national and international recognition for academics, sustainability, and school culture."
+          description="A track record of national and international recognition for academics, talent, sustainability, and school culture."
           align="center"
         />
         <div className="mt-12 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
